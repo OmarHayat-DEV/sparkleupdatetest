@@ -7,6 +7,8 @@
 	<key>SUEnableInstallerLauncherService</key>
 	<true/>
 	<key>SUFeedURL</key>
-	<string></string>
+	<string>https://omarhayat-dev.github.io/sparkleupdatetest/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>ZbMve8wfUSQghxEPXBhrQsQlI0zlkswHqeUJD1B0lFc=</string>
 </dict>
 </plist>

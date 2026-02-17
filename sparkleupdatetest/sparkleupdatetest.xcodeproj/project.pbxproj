@@ -7,28 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		62390C302F37CA470017BCDD /* Sparkle in Frameworks */ = {isa = PBXBuildFile; productRef = 62390C2F2F37CA470017BCDD /* Sparkle */; };
+		62CA8C962F37D6B90046720F /* Sparkle in Frameworks */ = {isa = PBXBuildFile; productRef = 62CA8C952F37D6B90046720F /* Sparkle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		62390C202F37C9190017BCDD /* sparkleupdatetest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sparkleupdatetest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		62CA8C862F37D5FC0046720F /* sparkleupdatetest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sparkleupdatetest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		62390C322F37CB1C0017BCDD /* Exceptions for "sparkleupdatetest" folder in "sparkleupdatetest" target */ = {
+		62CA8C992F37D7B60046720F /* Exceptions for "sparkleupdatetest" folder in "sparkleupdatetest" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 62390C1F2F37C9190017BCDD /* sparkleupdatetest */;
+			target = 62CA8C852F37D5FC0046720F /* sparkleupdatetest */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		62390C222F37C9190017BCDD /* sparkleupdatetest */ = {
+		62CA8C882F37D5FC0046720F /* sparkleupdatetest */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				62390C322F37CB1C0017BCDD /* Exceptions for "sparkleupdatetest" folder in "sparkleupdatetest" target */,
+				62CA8C992F37D7B60046720F /* Exceptions for "sparkleupdatetest" folder in "sparkleupdatetest" target */,
 			);
 			path = sparkleupdatetest;
 			sourceTree = "<group>";
@@ -36,29 +36,29 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		62390C1D2F37C9190017BCDD /* Frameworks */ = {
+		62CA8C832F37D5FC0046720F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				62390C302F37CA470017BCDD /* Sparkle in Frameworks */,
+				62CA8C962F37D6B90046720F /* Sparkle in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		62390C172F37C9190017BCDD = {
+		62CA8C7D2F37D5FC0046720F = {
 			isa = PBXGroup;
 			children = (
-				62390C222F37C9190017BCDD /* sparkleupdatetest */,
-				62390C212F37C9190017BCDD /* Products */,
+				62CA8C882F37D5FC0046720F /* sparkleupdatetest */,
+				62CA8C872F37D5FC0046720F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		62390C212F37C9190017BCDD /* Products */ = {
+		62CA8C872F37D5FC0046720F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				62390C202F37C9190017BCDD /* sparkleupdatetest.app */,
+				62CA8C862F37D5FC0046720F /* sparkleupdatetest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -66,68 +66,68 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		62390C1F2F37C9190017BCDD /* sparkleupdatetest */ = {
+		62CA8C852F37D5FC0046720F /* sparkleupdatetest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 62390C2B2F37C91B0017BCDD /* Build configuration list for PBXNativeTarget "sparkleupdatetest" */;
+			buildConfigurationList = 62CA8C912F37D5FF0046720F /* Build configuration list for PBXNativeTarget "sparkleupdatetest" */;
 			buildPhases = (
-				62390C1C2F37C9190017BCDD /* Sources */,
-				62390C1D2F37C9190017BCDD /* Frameworks */,
-				62390C1E2F37C9190017BCDD /* Resources */,
+				62CA8C822F37D5FC0046720F /* Sources */,
+				62CA8C832F37D5FC0046720F /* Frameworks */,
+				62CA8C842F37D5FC0046720F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				62390C222F37C9190017BCDD /* sparkleupdatetest */,
+				62CA8C882F37D5FC0046720F /* sparkleupdatetest */,
 			);
 			name = sparkleupdatetest;
 			packageProductDependencies = (
-				62390C2F2F37CA470017BCDD /* Sparkle */,
+				62CA8C952F37D6B90046720F /* Sparkle */,
 			);
 			productName = sparkleupdatetest;
-			productReference = 62390C202F37C9190017BCDD /* sparkleupdatetest.app */;
+			productReference = 62CA8C862F37D5FC0046720F /* sparkleupdatetest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		62390C182F37C9190017BCDD /* Project object */ = {
+		62CA8C7E2F37D5FC0046720F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 2620;
 				TargetAttributes = {
-					62390C1F2F37C9190017BCDD = {
+					62CA8C852F37D5FC0046720F = {
 						CreatedOnToolsVersion = 26.2;
 					};
 				};
 			};
-			buildConfigurationList = 62390C1B2F37C9190017BCDD /* Build configuration list for PBXProject "sparkleupdatetest" */;
+			buildConfigurationList = 62CA8C812F37D5FC0046720F /* Build configuration list for PBXProject "sparkleupdatetest" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 62390C172F37C9190017BCDD;
+			mainGroup = 62CA8C7D2F37D5FC0046720F;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				62390C2E2F37CA470017BCDD /* XCRemoteSwiftPackageReference "Sparkle" */,
+				62CA8C942F37D6B90046720F /* XCRemoteSwiftPackageReference "Sparkle" */,
 			);
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 62390C212F37C9190017BCDD /* Products */;
+			productRefGroup = 62CA8C872F37D5FC0046720F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				62390C1F2F37C9190017BCDD /* sparkleupdatetest */,
+				62CA8C852F37D5FC0046720F /* sparkleupdatetest */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		62390C1E2F37C9190017BCDD /* Resources */ = {
+		62CA8C842F37D5FC0046720F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -137,7 +137,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		62390C1C2F37C9190017BCDD /* Sources */ = {
+		62CA8C822F37D5FC0046720F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -147,7 +147,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		62390C292F37C91B0017BCDD /* Debug */ = {
+		62CA8C8F2F37D5FF0046720F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -211,7 +211,7 @@
 			};
 			name = Debug;
 		};
-		62390C2A2F37C91B0017BCDD /* Release */ = {
+		62CA8C902F37D5FF0046720F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -267,18 +267,29 @@
 			};
 			name = Release;
 		};
-		62390C2C2F37C91B0017BCDD /* Debug */ = {
+		62CA8C922F37D5FF0046720F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = sparkleupdatetest/sparkleupdatetest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 0.9;
 				DEVELOPMENT_TEAM = 7WCS8GSJ8N;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_RESOURCE_ACCESS_AUDIO_INPUT = NO;
+				ENABLE_RESOURCE_ACCESS_BLUETOOTH = NO;
+				ENABLE_RESOURCE_ACCESS_CALENDARS = NO;
+				ENABLE_RESOURCE_ACCESS_CAMERA = NO;
+				ENABLE_RESOURCE_ACCESS_CONTACTS = NO;
+				ENABLE_RESOURCE_ACCESS_LOCATION = NO;
+				ENABLE_RESOURCE_ACCESS_PRINTING = NO;
+				ENABLE_RESOURCE_ACCESS_USB = NO;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = sparkleupdatetest/Info.plist;
@@ -287,7 +298,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 0.9;
 				PRODUCT_BUNDLE_IDENTIFIER = com.OmarHayat.sparkleupdatetest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
@@ -300,18 +311,29 @@
 			};
 			name = Debug;
 		};
-		62390C2D2F37C91B0017BCDD /* Release */ = {
+		62CA8C932F37D5FF0046720F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = sparkleupdatetest/sparkleupdatetest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 0.9;
 				DEVELOPMENT_TEAM = 7WCS8GSJ8N;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_RESOURCE_ACCESS_AUDIO_INPUT = NO;
+				ENABLE_RESOURCE_ACCESS_BLUETOOTH = NO;
+				ENABLE_RESOURCE_ACCESS_CALENDARS = NO;
+				ENABLE_RESOURCE_ACCESS_CAMERA = NO;
+				ENABLE_RESOURCE_ACCESS_CONTACTS = NO;
+				ENABLE_RESOURCE_ACCESS_LOCATION = NO;
+				ENABLE_RESOURCE_ACCESS_PRINTING = NO;
+				ENABLE_RESOURCE_ACCESS_USB = NO;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = sparkleupdatetest/Info.plist;
@@ -320,7 +342,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 0.9;
 				PRODUCT_BUNDLE_IDENTIFIER = com.OmarHayat.sparkleupdatetest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
@@ -336,20 +358,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		62390C1B2F37C9190017BCDD /* Build configuration list for PBXProject "sparkleupdatetest" */ = {
+		62CA8C812F37D5FC0046720F /* Build configuration list for PBXProject "sparkleupdatetest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				62390C292F37C91B0017BCDD /* Debug */,
-				62390C2A2F37C91B0017BCDD /* Release */,
+				62CA8C8F2F37D5FF0046720F /* Debug */,
+				62CA8C902F37D5FF0046720F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		62390C2B2F37C91B0017BCDD /* Build configuration list for PBXNativeTarget "sparkleupdatetest" */ = {
+		62CA8C912F37D5FF0046720F /* Build configuration list for PBXNativeTarget "sparkleupdatetest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				62390C2C2F37C91B0017BCDD /* Debug */,
-				62390C2D2F37C91B0017BCDD /* Release */,
+				62CA8C922F37D5FF0046720F /* Debug */,
+				62CA8C932F37D5FF0046720F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -357,7 +379,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		62390C2E2F37CA470017BCDD /* XCRemoteSwiftPackageReference "Sparkle" */ = {
+		62CA8C942F37D6B90046720F /* XCRemoteSwiftPackageReference "Sparkle" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/sparkle-project/Sparkle";
 			requirement = {
@@ -368,12 +390,12 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		62390C2F2F37CA470017BCDD /* Sparkle */ = {
+		62CA8C952F37D6B90046720F /* Sparkle */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 62390C2E2F37CA470017BCDD /* XCRemoteSwiftPackageReference "Sparkle" */;
+			package = 62CA8C942F37D6B90046720F /* XCRemoteSwiftPackageReference "Sparkle" */;
 			productName = Sparkle;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
-	rootObject = 62390C182F37C9190017BCDD /* Project object */;
+	rootObject = 62CA8C7E2F37D5FC0046720F /* Project object */;
 }
